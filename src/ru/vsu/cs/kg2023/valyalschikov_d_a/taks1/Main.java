@@ -1,3 +1,5 @@
+package ru.vsu.cs.kg2023.valyalschikov_d_a.taks1;
+
 import javax.swing.*;
 
 public class Main {

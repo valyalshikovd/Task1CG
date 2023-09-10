@@ -1,7 +1,7 @@
+package ru.vsu.cs.kg2023.valyalschikov_d_a.taks1;
+
 import javax.swing.*;
 import java.awt.*;
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class MainWindow extends JFrame {
     private final DrawPanel dp;

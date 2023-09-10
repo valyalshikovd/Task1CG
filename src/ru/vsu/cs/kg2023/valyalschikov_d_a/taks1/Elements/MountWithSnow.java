@@ -1,4 +1,4 @@
-package Elements;
+package ru.vsu.cs.kg2023.valyalschikov_d_a.taks1.Elements;
 
 import java.awt.*;
 
